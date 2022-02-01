@@ -27,11 +27,11 @@ body {
 }
 
 #content {
-  font-size: 10rem;
+  font-size: 5rem;
   font-weight: bold;
   padding: 0vw 3vw 0vw 3vw;
   text-align: center;
-  flex: 2 1 1px;
+  flex: 2.5 1 1px;
 }
 
 /* twitter button */
